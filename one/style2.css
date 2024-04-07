@@ -1,0 +1,54 @@
+/* form{
+    width: 80%;
+    /* background-color: aquamarine; */
+    /* margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+   
+    
+} */ 
+form{
+    margin: auto;
+    width: 80%;
+    /* background-color: rgb(229, 191, 148); */
+    /* margin: 10px 0px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 10px;
+    
+}
+/* form>img{
+    width: 30%;
+    /* background-color: blueviolet; */
+    /* margin: 10px 0px;
+    display: flex;
+    flex-wrap: wrap;
+} */ 
+form>div{
+width: 40%;
+/* background-color: aquamarine; */
+}
+form>div>input[type="text"]{
+    width: 90%;
+    
+
+}
+.i{
+    /* background-color: aqua; */
+     display: flex;
+    justify-content: center;
+   
+}
+
+form>div>input[type="submit"]{
+    /* background-color: blue; */
+    /* display: flex;
+    justify-content: center; */
+    margin: auto;
+
+    /* background-color: aqua; */
+}
+input{
+    border: 2px solid #f9a826;
+}
